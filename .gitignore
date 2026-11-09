@@ -1,0 +1,9 @@
+# Compiled binary (go build names it after the module)
+/ethkit
+
+# Test and coverage output
+*.test
+*.out
+
+# macOS
+.DS_Store
